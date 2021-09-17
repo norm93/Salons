@@ -1,0 +1,26 @@
+{
+    "port": 3999,
+    "jwtSecret": "SaloneLiza",
+    "jwtSecretRefresh": "Salons2021",
+    "mongoUri": "mongodb+srv://vadimzet:qazwsx1983@sumkaua.cwvs8.mongodb.net/salons?retryWrites=true&w=majority",
+    "accountSid": "ACf25dd248a7da892cbc0dd1d52933960d",
+    "phoneTwilio": "+18577631712",
+    "authToken": "ce1246c44b3cc47e301a98ff7b96d358",
+    "SMTP_HOST":"smtp.gmail.com",
+    "SMTP_PORT":"587",
+    "SMTP_USER":"mrvadimkakotov@gmail.com",
+    "SMTP_PASSWORD":"trjzwhiteixijwbf",
+    "API_URL":"https://powerful-taiga-77609.herokuapp.com/api",
+    "FRONT_URL":"http://google.com",
+    "FRONT_URL_REDIRECT":"http://youtube.com",
+    "FRONT_URL_RESET":"http://google.com",
+    "CLIENT_ID_GOOGLE":"44256234126-pdnv4prubgemeb3ro3angvuopmpf9jpb.apps.googleusercontent.com",
+    "CLIENT_SECRET_GOOGLE":"7UJydJ6vP-Mupjs8wd3cGlIc",
+    "CLIENT_ID_FACEBOOK":"1457906557919509",
+    "CLIENT_SECRET_FACEBOOK":"9eee2ad192cc48870defefdf340fec95",
+    "AWS_NAME":"salon-liza-vv",
+    "AWS_REGION":"us-east-1",
+    "AWS_ACCESS":"AKIAQCN33WUJJLULCJ7C",
+    "AWS_SECRET":"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"
+    
+  }
