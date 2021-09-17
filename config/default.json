@@ -8,7 +8,7 @@
     "authToken": "ce1246c44b3cc47e301a98ff7b96d358",
     "SMTP_HOST":"smtp.gmail.com",
     "SMTP_PORT":"587",
-    "SMTP_USER":"mrvadimkakotov@gmail.com",
+    "SMTP_USER":"mrvad@gmail.com",
     "SMTP_PASSWORD":"trjzwhiteixijwbf",
     "API_URL":"https://powerful-taiga-77609.herokuapp.com/api",
     "FRONT_URL":"http://google.com",
